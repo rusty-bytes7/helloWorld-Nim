@@ -70,6 +70,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 57. [Haxe](https://haxe.org/) : basic
 58. [Elm](https://guide.elm-lang.org/) : basic
 59. [OCaml](https://ocaml.org/) : basic
+60. [Nim](https://nim-by-example.github.io/hello_world/) : basic
 ## Table of Contents
 
 - [Introduction](#introduction)
